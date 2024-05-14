@@ -1,0 +1,14 @@
+.ul{
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    justify-content: right;
+}
+
+.nav {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(110, 110, 219, 0.553);
+}
